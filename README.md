@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 ![image](https://www.codewars.com/users/danielvinogradov/badges/large)
 
